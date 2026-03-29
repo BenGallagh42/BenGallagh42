@@ -1,56 +1,73 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ben%20Gallagher&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%26%20Digital%20Marketing%20Specialist&descAlignY=52&descSize=18" />
+
 <div align="center">
 
-# Ben Gallagher
+![Profile Views](https://komarev.com/ghpvc/?username=BenGallagh42&style=flat-square&color=58A6FF)
 
-**Web Developer & Digital Marketing Specialist**
-
-Bangkok, Thailand · [bengallagher.dev](https://bengallagher.dev) · [BenGallagh42](https://github.com/BenGallagh42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+tech+%26+marketing;Student+%40+42+School;Based+in+Bangkok%2C+Thailand)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-I build web products and automation systems at the intersection of development and digital marketing. Currently studying at **42 School** (peer-to-peer, project-based — no lectures, no teachers) while shipping real-world projects.
+### About Me
 
-Background in marketing (MSc) means I build things that are meant to grow — not just work.
+I'm a web developer and digital marketing specialist based in **Bangkok, Thailand** — currently levelling up through **42 School** (École 42), a peer-to-peer engineering programme with no lectures, no teachers, just code. I hold a Master's degree in Marketing and spend my time building products at the intersection of tech, AI, and growth.
 
----
-
-## What I'm building
-
-**[interviewpracticeai.com](https://interviewpracticeai.com)** — AI-powered interview practice platform. Real questions, real-time feedback, built to help candidates actually prepare.
-
-**Radio Terra** — Fully automated AI music YouTube channel. Suno generates the tracks, Python stitches hour-long mixes, Gemini designs the visuals, the pipeline handles everything else.
-
-**OpenClaw** — Lead generation platform for the Thai market. Scrapes, enriches, and delivers business leads to clients across Thailand.
+> Building things that work. Shipping things that matter.
 
 ---
 
-## Stack
+### Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://interviewpracticeai.com">Interview Practice AI</a></h3>
+      <p align="center">AI-powered mock interview platform with real-time feedback. Practice technical and behavioural interviews with an AI that actually pushes back.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/BenGallagh42/radio-terra">Radio Terra</a></h3>
+      <p align="center">Automated AI music YouTube channel — Suno + Gemini Imagen + FFmpeg pipeline producing genre-themed hour-long mixtapes, hands-free.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/BenGallagh42">LeadGen</a></h3>
+      <p align="center">B2B lead generation platform built for the Thai market — automated prospecting and outreach infrastructure for local businesses.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://bengallagher.dev">bengallagher.dev</a></h3>
+      <p align="center">Personal site and portfolio. Web design, digital marketing consulting, and project showcases for clients across Southeast Asia.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Skills & Tools
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+**Core**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,git,linux,vscode&theme=dark)](https://skillicons.dev)
+
+**Infrastructure & AI**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,postgres,nginx,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BenGallagh42&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGallagh42&layout=compact&theme=default&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=BenGallagh42&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenGallagh42&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/BenGallagh42)
 
 </div>
 
@@ -58,6 +75,8 @@ Background in marketing (MSc) means I build things that are meant to grow — no
 
 <div align="center">
 
-[bengallagher.dev](https://bengallagher.dev)
+**[bengallagher.dev](https://bengallagher.dev)** &nbsp;·&nbsp; Bangkok, Thailand
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
