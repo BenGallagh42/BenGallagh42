@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ben%20Gallagher&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%26%20Digital%20Marketing%20Specialist&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ben+Gallagher&fontSize=48&fontColor=fff&fontAlignY=35&desc=Web+Developer+%26+Digital+Marketing+Specialist&descAlignY=55&descSize=20" />
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BenGallagh42&style=flat-square&color=58A6FF)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+tech+%26+marketing;Student+%40+42+School;Based+in+Bangkok%2C+Thailand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+tech+%26+marketing;Student+%40+42+School+%28%C3%89cole+42%29;Based+in+Bangkok%2C+Thailand)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,7 @@ I'm a web developer and digital marketing specialist based in **Bangkok, Thailan
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/BenGallagh42">LeadGen</a></h3>
+      <h3 align="center">LeadGen</h3>
       <p align="center">B2B lead generation platform built for the Thai market — automated prospecting and outreach infrastructure for local businesses.</p>
     </td>
     <td width="50%" valign="top">
@@ -66,8 +66,6 @@ I'm a web developer and digital marketing specialist based in **Bangkok, Thailan
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BenGallagh42&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenGallagh42&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/BenGallagh42)
 
 </div>
 
