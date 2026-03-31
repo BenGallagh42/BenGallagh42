@@ -25,7 +25,7 @@ I'm a web developer and digital marketing specialist based in **Bangkok, Thailan
       <p align="center">AI-powered mock interview platform with real-time feedback. Practice technical and behavioural interviews with an AI that actually pushes back.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Radio Terra</h3>
+      <h3 align="center"><a href="https://www.youtube.com/@RadioTerraMusic">Radio Terra</a></h3>
       <p align="center">Automated AI music YouTube channel — Suno + Gemini Imagen + FFmpeg pipeline producing genre-themed hour-long mixtapes, hands-free.</p>
     </td>
   </tr>
@@ -40,6 +40,18 @@ I'm a web developer and digital marketing specialist based in **Bangkok, Thailan
     </td>
   </tr>
 </table>
+
+---
+
+### Music
+
+More of a Spotify person? I upload my favourite AI-generated mixes as albums — good for coding, commuting, or just having something on.
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Radio_Terra_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/artist/0tSGE84HaFzbjUPhcWUib9?si=2wInukG6Tc65SG8xb0SJtA)
+
+</div>
 
 ---
 
