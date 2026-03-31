@@ -45,10 +45,11 @@ I'm a web developer and digital marketing specialist based in **Bangkok, Thailan
 
 ### Music
 
-More of a Spotify person? I upload my favourite AI-generated mixes as albums — good for coding, commuting, or just having something on.
+I run an automated AI music channel — hour-long genre mixes generated with Suno, posted daily to YouTube and distributed to Spotify, Apple Music, and more. Good for coding, commuting, or just having something on.
 
 <div align="center">
 
+[![YouTube](https://img.shields.io/badge/Radio_Terra_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RadioTerraMusic)
 [![Spotify](https://img.shields.io/badge/Radio_Terra_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/artist/0tSGE84HaFzbjUPhcWUib9?si=2wInukG6Tc65SG8xb0SJtA)
 
 </div>
@@ -61,11 +62,20 @@ More of a Spotify person? I upload my favourite AI-generated mixes as albums —
 
 **Core**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,git,linux,vscode&theme=dark)](https://skillicons.dev)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Infrastructure & AI**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,postgres,nginx,docker&theme=dark)](https://skillicons.dev)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
