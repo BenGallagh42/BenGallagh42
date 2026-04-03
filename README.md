@@ -108,7 +108,6 @@ I run an automated AI music channel — hour-long genre mixes generated with Sun
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BenGallagh42&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenGallagh42&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/BenGallagh42)
 
 </div>
 
