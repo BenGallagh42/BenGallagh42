@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+with+AI+%E2%80%94+web%2C+mobile%2C+automation;Advanced+Core+Student+at+42+School+%28%C3%89cole+42%29;Author+of+The+Claude+AI+Bible+for+Beginners;Building+products+from+Bangkok%2C+Thailand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+with+AI+%E2%80%94+web%2C+mobile%2C+automation;Advanced+Core+Cadet+at+42+School+%28%C3%89cole+42%29;Author+of+The+Claude+AI+Bible+for+Beginners)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 I build products with AI — web apps, mobile apps, automation pipelines, and tools for businesses. The marketing side isn't a separate job: I ship the thing, then get it in front of people.
 
-Based in **Bangkok, Thailand**. Advanced core student at **42 School** (École 42), full common core complete. Master's degree in Marketing.
+Advanced core cadet at **42 School** (École 42), full common core complete. Master's degree in Marketing.
 
 Right now that means a live SaaS product taking payments, a music channel that runs itself, an AI-driven lead generation pipeline, and a published book on Claude.
 
@@ -136,7 +136,7 @@ I run an automated AI music channel — hour-long genre mixes generated with Sun
 
 <div align="center">
 
-**[bengallagher.dev](https://bengallagher.dev)** &nbsp;·&nbsp; Bangkok, Thailand
+**[bengallagher.dev](https://bengallagher.dev)**
 
 </div>
 
