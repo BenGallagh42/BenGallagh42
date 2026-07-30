@@ -123,17 +123,6 @@ I run an automated AI music channel — hour-long genre mixes generated with Sun
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BenGallagh42&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-
-</div>
-
----
-
 <div align="center">
 
 **[bengallagher.dev](https://bengallagher.dev)**
