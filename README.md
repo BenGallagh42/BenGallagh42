@@ -46,7 +46,7 @@ Right now that means a live SaaS product taking payments, a music channel that r
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://bengallagher.dev">bengallagher.dev</a></h3>
-      <p align="center">Personal site and portfolio. Web design, digital marketing consulting, and project showcases. Available in English, French, and Thai.</p>
+      <p align="center">My freelance site: websites, mobile apps, software and workflow automation for businesses, at fixed prices, with 15 example sites. In English and French.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">42 School — Advanced Core</h3>
