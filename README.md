@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+with+AI+%E2%80%94+web%2C+mobile%2C+automation;Advanced+Core+Cadet+at+42+School+%28%C3%89cole+42%29;Author+of+The+Claude+AI+Bible+for+Beginners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+websites%2C+apps+and+automation+with+AI;Advanced+Core+Cadet+at+42+School+%28%C3%89cole+42%29;Author+of+The+Claude+AI+Bible+for+Beginners)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,25 @@
 
 ### About Me
 
-I build products with AI — web apps, mobile apps, automation pipelines, and tools for businesses. The marketing side isn't a separate job: I ship the thing, then get it in front of people.
+I build products with AI: web apps, mobile apps, automation pipelines and tools for businesses. The marketing side isn't a separate job: I ship the thing, then get it in front of people.
 
 Advanced core cadet at **42 School** (École 42), full common core complete. Master's degree in Marketing.
 
 Right now that means a live SaaS product taking payments, a music channel that runs itself, an AI-driven lead generation pipeline, and a published book on Claude.
 
 > Building things that work. Shipping things that matter.
+
+---
+
+### Work with me
+
+I build websites, web apps, mobile apps and workflow automations for businesses, and I handle every step myself, from the first design to the launch.
+
+- **Websites and apps:** from a one-page site to bookings, payments and dashboards
+- **Automation and AI assistants:** less copy-paste and admin for your team
+- **How I work:** a free quote with the price fixed before I start, revisions until launch, then 30 days of bug fixes and small edits
+
+My services, prices and 15 example sites are on **[bengallagher.dev](https://bengallagher.dev)**, where you can ask for a free quote.
 
 ---
 
@@ -30,13 +42,13 @@ Right now that means a live SaaS product taking payments, a music channel that r
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://www.amazon.com/dp/B0H9SQ69N1">The Claude AI Bible for Beginners</a></h3>
-      <p align="center">Published on Amazon in ebook and paperback. A plain-English guide to Claude for people who have never used it — the models, prompts, and five guided projects. Book 1 of the Claude AI Mastery series.</p>
+      <p align="center">Published on Amazon in ebook and paperback. A plain-English guide to Claude for people who have never used it, covering the models, prompts and five guided projects. Book 1 of the Claude AI Mastery series.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://www.youtube.com/@RadioTerraMusic">Radio Terra</a></h3>
-      <p align="center">Automated AI music YouTube channel — Suno + Gemini Imagen + FFmpeg pipeline producing genre-themed hour-long mixtapes, hands-free. Runs a 24/7 livestream and distributes to streaming platforms.</p>
+      <p align="center">Automated AI music YouTube channel. A Suno, Gemini Imagen and FFmpeg pipeline produces genre-themed hour-long mixtapes, hands-free. Runs a 24/7 livestream and distributes to streaming platforms.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">LeadGen</h3>
@@ -49,8 +61,8 @@ Right now that means a live SaaS product taking payments, a music channel that r
       <p align="center">My freelance site: websites, mobile apps, software and workflow automation for businesses, at fixed prices, with 15 example sites. In English and French.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">42 School — Advanced Core</h3>
-      <p align="center">Common core complete. Systems programming in C and C++ — a UNIX shell, an IRC server, a raycasting engine, a containerised web stack — finishing with ft_transcendence, a full-stack real-time app built as a five-person team.</p>
+      <h3 align="center">42 School: Advanced Core</h3>
+      <p align="center">Common core complete. Systems programming in C and C++ (a UNIX shell, an IRC server, a raycasting engine, a containerised web stack), finishing with ft_transcendence, a full-stack real-time app built as a five-person team.</p>
     </td>
   </tr>
 </table>
@@ -59,7 +71,7 @@ Right now that means a live SaaS product taking payments, a music channel that r
 
 ### Music
 
-I run an automated AI music channel — hour-long genre mixes generated with Suno, posted daily to YouTube and distributed to Spotify, Apple Music, and more. Good for coding, commuting, or just having something on.
+I run an automated AI music channel: hour-long genre mixes generated with Suno, posted daily to YouTube and distributed to Spotify, Apple Music, and more. Good for coding, commuting, or just having something on.
 
 <div align="center">
 
