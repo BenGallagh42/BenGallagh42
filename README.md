@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+websites%2C+apps+and+automation+with+AI;Advanced+Core+Cadet+at+42+School+%28%C3%89cole+42%29;Author+of+The+Claude+AI+Bible+for+Beginners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+websites%2C+apps+and+automation+with+AI;Advanced+Core+Cadet+at+42+School+%28%C3%89cole+42%29;Author+of+the+Claude+AI+Mastery+book+series)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@ I build products with AI: web apps, mobile apps, automation pipelines and tools 
 
 Advanced core cadet at **42 School** (École 42), full common core complete. Master's degree in Marketing.
 
-Right now that means a live SaaS product taking payments, a music channel that runs itself, an AI-driven lead generation pipeline, and a published book on Claude.
+Right now that means a live SaaS product taking payments, a music channel that runs itself, an AI-driven lead generation pipeline, and a series of books on Claude, in English and French.
 
 > Building things that work. Shipping things that matter.
 
@@ -41,8 +41,8 @@ My services, prices and 15 example sites are on **[bengallagher.dev](https://ben
       <p align="center">Live SaaS. Add your CV and a job description, then practice mock interviews with an AI that scores every answer and coaches you toward a stronger one. Next.js, Supabase, Stripe.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://www.amazon.com/dp/B0H9SQ69N1">The Claude AI Bible for Beginners</a></h3>
-      <p align="center">Published on Amazon in ebook and paperback. A plain-English guide to Claude for people who have never used it, covering the models, prompts and five guided projects. Book 1 of the Claude AI Mastery series.</p>
+      <h3 align="center"><a href="https://www.amazon.com/stores/author/B0HC4T34Z2/about">Claude AI Mastery (book series)</a></h3>
+      <p align="center">Plain-English guides to Claude, published on Amazon in ebook and paperback, in English and French (as Claude AI pas à pas on Amazon.fr). Book 1, The Claude AI Bible for Beginners, covers the models, prompts and five guided projects for people who have never used it.</p>
     </td>
   </tr>
   <tr>
