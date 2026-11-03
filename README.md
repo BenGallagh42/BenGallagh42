@@ -125,6 +125,15 @@ I run an automated AI music channel: hour-long genre mixes generated with Suno, 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
+**Google & Marketing**
+
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Business Profile](https://img.shields.io/badge/Google_Business_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
 **Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
