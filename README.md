@@ -125,7 +125,13 @@ I run an automated AI music channel: hour-long genre mixes generated with Suno, 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-**Google & Marketing**
+**SEO & Marketing**
+
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Structured data](https://img.shields.io/badge/Structured_Data_%28Schema.org%29-3C5A99?style=for-the-badge&logo=json&logoColor=white)
+![Bing Webmaster Tools](https://img.shields.io/badge/Bing_Webmaster_Tools-258FFA?style=for-the-badge&logoColor=white)
+
+**Google**
 
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
